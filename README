@@ -1,0 +1,15 @@
+This is a placeholder readme
+
+At the moment this project does not complete it's intended function. 
+The mutex is removed without issue, however gw.dat remains locked. 
+The code that attempts to remove the lock is currently disabled, due
+to the fact that it causes the client to crash.
+
+A complete rewrite is expected, however due to the methods employed
+to achieve the end result, the source may or may not be released.
+
+At the very least this code will remain available.
+
+Some parts of the code came directly from Guild Wars Multi-Launch
+which can be found here: http://code.google.com/p/gwmultilaunch/
+Specifically most of the mutex/handle closer.

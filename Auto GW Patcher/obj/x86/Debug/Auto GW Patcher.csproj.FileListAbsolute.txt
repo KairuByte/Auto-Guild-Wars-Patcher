@@ -1,0 +1,14 @@
+c:\users\kyle\documents\visual studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\Auto_GW_Patcher.Form1.resources
+c:\users\kyle\documents\visual studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\Auto_GW_Patcher.Properties.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\bin\Debug\Auto GW Patcher.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\bin\Debug\Auto GW Patcher.pdb
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\Auto GW Patcher.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\Auto GW Patcher.pdb
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\bin\Debug\Auto GW Patcher.exe.manifest
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\bin\Debug\Auto GW Patcher.application
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\Auto GW Patcher.TrustInfo.xml
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\Auto GW Patcher.exe.manifest
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Auto GW Patcher\Auto GW Patcher\obj\x86\Debug\Auto GW Patcher.application
